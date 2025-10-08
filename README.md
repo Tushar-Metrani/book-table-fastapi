@@ -1,4 +1,4 @@
-🖥️ Table Booking Backend (FastAPI)
+## 🖥️ Table Booking Backend (FastAPI)
 
 This is a lightweight FastAPI backend service for handling table booking submissions. It is a part of [TheGreenSprout - A small restaurant website](https://github.com/Tushar-Metrani/greensprout). It exposes a  POST endpoint /submit that accepts form data and sends a booking confirmation email to users via the Brevo API.
 
